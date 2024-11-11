@@ -20,3 +20,8 @@ for (let i = 0; i < twoDigits.length; i++) {
 }
 // console.log(twoDigits);
 console.log(sum);
+
+
+
+
+const x = 'kuso';
